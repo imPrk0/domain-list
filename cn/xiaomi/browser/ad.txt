@@ -1,0 +1,5 @@
+hd.browser.miui.com
+hd-preview.browser.miui.com
+r.browser.miui.com
+nav.browser.miui.com
+reader.browser.miui.com

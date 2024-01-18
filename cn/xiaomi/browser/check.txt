@@ -1,0 +1,4 @@
+browser.sentry-cdn.com
+security.browser.miui.com
+httpdns.browser.miui.com
+activity.browser.intl.miui.com

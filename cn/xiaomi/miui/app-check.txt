@@ -1,0 +1,15 @@
+log.avlyun.sec.intl.miui.com
+update.avlyun.sec.miui.com
+ixav-cse.avlyun.com
+logupdate.avlyun.sec.miui.com
+miui-fxcse.avlyun.com
+sdkconf.avlyun.com
+miav-cse.avlyun.com
+api.installer.xiaomi.com
+tmfsdk.m.qq.com
+a0.app.xiaomi.com
+api.sec.miui.com
+adv.sec.miui.com
+flash.sec.miui.com
+etl-xlmc-ssl.sandai.net
+cn.app.chat.xiaomi.net
